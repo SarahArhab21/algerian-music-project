@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/xsl" href="ArtistAlgerian.xsl"?> 
+<artists> 
+    <!-- Style Malouf --> 
+    <genre name="Malouf" color="#8E44AD" icon="mosque" description="Héritage 
+arabo-andalou de Constantine"> 
+        <artist>
+ <name>Mohamed Tahar Fergani</name> 
+<city>Constantine</city> 
+<site>http://www.fergani.dz</site> 
+<production>Maître du Malouf</production> 
+<albums> 
+<album> 
+<name>Nouba Zidane</name> 
+<songs> 
+<song>Ya Ghzali</song> 
+<song>Mawwal Ana Lih</song> 
+</songs> 
+</album> 
+</albums> 
+</artist> 
+<artist> 
+<name>Abdelkrim Bestandji</name> 
+<city>Constantine</city> 
+<site>http://www.bestandji.dz</site> 
+<production>Interprète classique</production> 
+<albums> 
+<album> 
+<name>Nouba Maya</name> 
+<songs> 
+<song>Talaa el Badru</song> 
+<song>Ya Shadi Al Alhan</song> 
+</songs> 
+</album> 
+</albums> 
+</artist> 
+<artist> 
+<name>Salim Halali</name> 
+<city>Annaba</city> 
+<site>http://www.salimhalali.dz</site> 
+<production>Pionnier du Malouf</production> 
+<albums> 
+<album> 
+<name>Trésors du Malouf</name> 
+<songs> 
+<song>Mahbouni Biladi</song> 
+<song>Ya Rayah</song> 
+</songs> 
+</album> 
+</albums> 
+</artist> 
+</genre> 
+<!-- Style Raï -->
+<genre name="Raï" color="#E74C3C" icon="microphone-alt" 
+description="Musique populaire de l'Ouest algérien"> 
+<artist> 
+<name>Cheb Khaled</name> 
+<city>Oran</city> 
+<site>https://www.chebkhaled.dz</site> 
+<production>Roi du Raï</production> 
+<albums> 
+<album> 
+<name>Kutche</name> 
+<songs> 
+<song>Didi</song> 
+<song>Aicha</song> 
+</songs> 
+</album> 
+</albums> 
+</artist> 
+<artist> 
+<name>Cheb Mami</name> 
+<city>Saïda</city> 
+<site>https://www.chebmami.dz</site> 
+<production>Voix du Raï sentimental</production> 
+<albums> 
+<album> 
+<name>Meli Meli</name> 
+<songs> 
+<song>Desert Rose</song> 
+<song>Parisien du Nord</song> 
+</songs> 
+</album> 
+</albums> 
+</artist> 
+<artist> 
+<name>Cheb Hasni</name> 
+<city>Oran</city> 
+<site>http://www.chebhasni.dz</site> 
+<production>Roi du Raï sentimental</production> 
+<albums> 
+<album> 
+<name>L'amour For Ever</name> 
+<songs> 
+<song>Beraka</song> 
+<song>Galouha El Baraka</song> 
+</songs> 
+</album> 
+</albums> 
+</artist> 
+</genre> 
+<!-- Style Kabyle --> 
+<genre name="Kabyle" color="#27AE60" icon="mountain" description="Musique 
+berbère de Kabylie"> 
+<artist> 
+<name>Idir</name> 
+<city>Tizi Ouzou</city> 
+<site>https://www.idirmusic.com</site> 
+<production>Poète kabyle</production> 
+<albums> 
+<album> 
+<name>A Vava Inouva</name> 
+<songs> 
+<song>A Vava Inouva</song> 
+<song>Zwit Rwit</song> 
+</songs> 
+</album> 
+</albums> 
+</artist> 
+<artist> 
+<name>Lounès Matoub</name> 
+<city>Tizi Ouzou</city> 
+<site>http://www.matoub-lounes.dz</site> 
+<production>Rebelle kabyle</production> 
+<albums> 
+<album> 
+<name>Lettre Ouverte</name> 
+<songs> 
+<song>Regard sur l'histoire</song> 
+<song>La Maison Blanche</song> 
+</songs> 
+</album> 
+</albums> 
+</artist> 
+<artist> 
+<name>Takfarinas</name> 
+<city>Béjaïa</city> 
+<site>http://www.takfarinas.dz</site> 
+<production>Innovateur kabyle</production> 
+<albums> 
+<album> 
+<name>Yal A Menfi</name> 
+<songs> 
+<song>Zzwaht Uzarur</song> 
+<song>A Tulawin</song> 
+</songs>
+</album> 
+</albums> 
+</artist> 
+</genre> 
+<!-- Style Chaâbi --> 
+<genre name="Chaâbi" color="#F39C12" icon="guitar" description="Musique 
+populaire algéroise"> 
+<artist> 
+<name>El Hadj M'Hamed El Anka</name> 
+<city>Alger</city> 
+<site>http://www.elanka.dz</site> 
+<production>Maître du Chaâbi</production> 
+<albums> 
+<album> 
+<name>Cheikh El Hasnaoui</name> 
+<songs> 
+<song>El Hamdoulilah</song> 
+<song>Sghir Ou Sghira</song> 
+</songs> 
+</album> 
+</albums> 
+</artist> 
+<artist> 
+<name>Boudjemaâ El Ankis</name> 
+<city>Alger</city> 
+<site>http://www.elankis.dz</site> 
+<production>Rénovateur du Chaâbi</production> 
+<albums> 
+<album> 
+<name>Nouba Chaâbi</name> 
+<songs> 
+<song>Ya Mahla El Fasslaine</song> 
+<song>Moul El Kharouba</song> 
+</songs> 
+</album> 
+</albums> 
+</artist> 
+<artist> 
+<name>Amar Ezzahi</name> 
+<city>Alger</city> 
+<site>http://www.amarezzahi.dz</site> 
+<production>Voix d'or du Chaâbi</production> 
+<albums> 
+<album> 
+<name>El Hichem</name> 
+<songs> 
+<song>El Hichem</song> 
+<song>Ya Bent Enness</song> 
+</songs> 
+</album> 
+</albums> 
+</artist> 
+</genre> 
+<!-- Style Andalouse --> 
+<genre name="Andalouse" color="#3498DB" icon="music" description="Musique 
+arabo-andalouse classique"> 
+<artist> 
+<name>Mohamed Khaznadji</name> 
+<city>Alger</city> 
+<site>http://www.khaznadji.dz</site> 
+<production>Maître andalou</production> 
+<albums> 
+<album> 
+<name>Nouba Gribt</name> 
+<songs> 
+<song>Ya Bahi El Jamal</song> 
+<song>Qaduka Al Mayyas</song> 
+</songs> 
+</album> 
+</albums> 
+</artist> 
+<artist> 
+<name>Fadhéla Dziria</name> 
+<city>Alger</city> 
+<site>http://www.dziria.dz</site> 
+<production>Diva andalouse</production> 
+<albums> 
+<album> 
+<name>Nouba Dhil</name> 
+<songs> 
+<song>Lamma Bada Yatathanna</song> 
+<song>Ya Welfi Mériem</song> 
+</songs> 
+</album> 
+</albums> 
+</artist> 
+<artist> 
+<name>Nouri Koufi</name> 
+<city>Constantine</city> 
+<site>http://www.nourikoufi.dz</site> 
+<production>Interprète andalou</production> 
+<albums>
+<album> 
+<name>Anthologie</name> 
+<songs> 
+<song>Ya Warda Talaa</song> 
+<song>Ya Nasr Allah</song> 
+</songs> 
+</album> 
+</albums> 
+</artist> 
+</genre> 
+<!-- Style Gnawa --> 
+<genre name="Gnawa" color="#16A085" icon="drum" description="Musique 
+spirituelle afro-algérienne"> 
+<artist> 
+<name>Maâlem Mahmoud Guinea</name> 
+<city>Oran</city> 
+<site>http://www.guinea.dz</site> 
+<production>Maître Gnawa</production> 
+<albums> 
+<album> 
+<name>Gnawa Diffusion</name> 
+<songs> 
+<song>Bambara</song> 
+<song>Salat Anbi</song> 
+</songs> 
+</album> 
+</albums> 
+</artist> 
+<artist> 
+<name>Maâlem Abdelkader Benthami</name> 
+<city>Alger</city> 
+<site>http://www.benthami.dz</site> 
+<production>Gnawa traditionnel</production> 
+<albums> 
+<album> 
+<name>Lila Gnawa</name> 
+<songs> 
+<song>Lalla Mira</song> 
+<song>Moulay Brahim</song> 
+</songs> 
+</album> 
+</albums> 
+</artist> 
+<artist> 
+<name>Hasna El Becharia</name> 
+<city>Béchar</city>
+<site>http://www.hasnaelbecharia.dz</site> 
+<production>Diva du Gnawa</production> 
+<albums> 
+<album> 
+<name>Djazair Johara</name> 
+<songs> 
+<song>Bania</song> 
+<song>Soudani Manayou</song> 
+</songs> 
+</album> 
+</albums> 
+</artist> 
+</genre> 
+</artists> 
