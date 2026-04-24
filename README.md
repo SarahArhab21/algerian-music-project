@@ -39,7 +39,7 @@ To use the application, follow these steps:
 
 ![](expected%20outputs/screen3.png)
 
-\
+
 
 
 ## 🤝 Contributing
