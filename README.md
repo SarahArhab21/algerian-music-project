@@ -31,13 +31,11 @@ To use the application, follow these steps:
 3. Click on an artist to view their biography and work
 
 
-## 📸 Screenshots
+## Screenshots
 
-![](expected%20outputs/screen1.png)
-
-![](expected%20outputs/screen2.png)
-
-![](expected%20outputs/screen3.png)
+![Screen1](expected%20outputs/Screen1.png)
+![Screen2](expected%20outputs/Screen2.png)
+![Screen3](expected%20outputs/Screen3.png)
 
 
 
