@@ -33,6 +33,10 @@ To use the application, follow these steps:
 
 
 ## 📸 Screenshots
+## 📸 Screenshots
+
+![](expected%20outputs/capture d'écran 2026-02-03 194239.png)
+
 
 ## 🤝 Contributing
 
